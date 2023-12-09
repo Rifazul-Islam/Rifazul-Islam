@@ -14,6 +14,10 @@ As a MERN stack developer, I specialize in building web applications using Mongo
   </a>
 </p>
 
+## Status
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 **Rifazul/Rifazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
