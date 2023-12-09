@@ -1,7 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Rifazul-Islam/Rifazul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![The San Juan Mountains are beautiful!](/image/mern.webp "San Juan Mountains")
+
+## I Working with technology.
+
+As a MERN stack developer, I specialize in building web applications using MongoDB for data storage, Express.js for server-side development, React for creating dynamic user interfaces, and Node.js as the runtime environment.
+
+## Technology that I know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,react,express,nodejs,git,js,firebase,vscode,html,css,tailwind,figma," />
+  </a>
+</p>
+
+**Rifazul/Rifazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +26,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
