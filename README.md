@@ -1,10 +1,8 @@
-# Hi there 👋
-
 ![The San Juan Mountains are beautiful!](/image/mern.webp "San Juan Mountains")
 
 ## I Working with technology.
 
-As a MERN stack developer, I specialize in building web applications using MongoDB for data storage, Express.js for server-side development, React for creating dynamic user interfaces, and Node.js as the runtime environment.
+As a MERN stack developer, I specialize in building web applications using MongoDB for data storage, Express.js for server-side development, React for creating dynamic user interfaces, and Node.js as the runtime environments.
 
 ## Technology that I know
 
@@ -16,4 +14,4 @@ As a MERN stack developer, I specialize in building web applications using Mongo
 
 ## Current Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&hide_border=true&card_width=496)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=807)](https://git.io/streak-stats)
