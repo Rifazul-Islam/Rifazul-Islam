@@ -14,4 +14,4 @@ As a MERN stack developer, I specialize in building web applications using Mongo
 
 ## Current Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=807)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=1000)](https://git.io/streak-stats)
