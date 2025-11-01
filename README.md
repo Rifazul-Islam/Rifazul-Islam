@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/image/mern.webp "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i.ibb.co.com/KxcF63Fz/githut-image.png "San Juan Mountains")
 
 ## I Working with technology.
 
@@ -7,11 +7,10 @@ As a MERN stack developer, I specialize in building web applications using Mongo
 ## Technology that I know
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://i.ibb.co.com/KxcF63Fz/githut-image.png" />
-  </a>
+   <img src="https://i.ibb.co.com/KxcF63F63Fz/githut-image.png" alt="Tech Icons" />
 </p>
 
 ## Current Status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=1000)](https://git.io/streak-stats)
+
