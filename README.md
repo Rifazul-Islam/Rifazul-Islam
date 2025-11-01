@@ -8,7 +8,7 @@ As a MERN stack developer, I specialize in building web applications using Mongo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,react,express,nodejs,git,js,firebase,vscode,html,css,tailwind,figma," />
+    <img src="https://i.ibb.co.com/KxcF63Fz/githut-image.png" />
   </a>
 </p>
 
