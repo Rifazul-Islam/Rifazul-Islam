@@ -7,5 +7,9 @@ As a Front-End developer, I specialize in building web applications using MongoD
 ## Technology that I know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,firebase,tailwind,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,firebase,tailwind,vscode,figma,github" />
 </p>
+
+## Current Status
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=500)](https://git.io/streak-stats)
