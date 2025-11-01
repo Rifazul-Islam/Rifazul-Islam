@@ -2,7 +2,7 @@
 
 ## I Working with technology.
 
-As a MERN stack developer, I specialize in building web applications using MongoDB for data storage, Express.js for server-side development, React for creating dynamic user interfaces, and Node.js as the runtime environments.
+As a Front-End developer, I specialize in building web applications using MongoDB for data storage, Express.js for server-side development, React for creating dynamic user interfaces, and Node.js as the runtime environments.
 
 ## Technology that I know
 
