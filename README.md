@@ -12,4 +12,4 @@ As a Front-End developer, I specialize in building web applications using MongoD
 
 ## Current Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=statas&theme=dark&card_width=900)](https://git.io/streak-stats)
